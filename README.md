@@ -5,3 +5,5 @@
 #### Tecnologias Utilizadas
 - Hadoop
 - Docker
+- Hive
+- Spark
