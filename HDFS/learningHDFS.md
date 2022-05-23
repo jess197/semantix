@@ -2,10 +2,12 @@
 
 ` cd docker-bigdata `
 ` docker-compose up -d ` 
+
 2. Download exercises
 
 ` cd input`
 `sudo git clone https://github.com/rodrigo-reboucas/exercises-data.git`
+
 3. Access namenode container
 ` docker exec -it namenode bash `
 
