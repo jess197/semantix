@@ -1,9 +1,10 @@
 # Big Data Engineer Semantix
-- Curso de Big Data, focado em Engenharia de Dados da Semantix Academy
+- Big Data Course, focused on Data Engineering from Semantix Academy
 #### Origin
 ` $ git clone https://github.com/rodrigo-reboucas/docker-bigdata.git`
-#### Tecnologias Utilizadas
+#### Techs
 - Hadoop
 - Docker
 - Hive
 - Spark
+
